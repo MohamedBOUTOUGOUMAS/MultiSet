@@ -1,0 +1,6 @@
+Marks:12
+Prop:1
+Serv:3
+Snipp:5
+Cons:60000000
+jUnit:10
